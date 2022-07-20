@@ -1,0 +1,3 @@
+2022-07-08 16:05:12,373-ERROR-my_log.py-bonree-api-日志信息:请求出错:'str' object has no attribute 'items'
+2022-07-08 16:06:26,677-ERROR-my_log.py-bonree-api-日志信息:请求出错:'str' object has no attribute 'items'
+2022-07-08 16:06:41,155-ERROR-my_log.py-bonree-api-日志信息:请求出错:'str' object has no attribute 'items'

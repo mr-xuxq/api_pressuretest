@@ -1,0 +1,4 @@
+2022-07-13 16:20:47,911-ERROR-my_log.py-bonree-api-test_globalBusinessCollect-日志信息:执行用例1的时候报错:
+2022-07-13 16:20:49,959-INFO-my_log.py-bonree-api-test_globalBusinessCollect-日志信息:预期结果是：res.json()['msg']=="操作成功"；实际请求结果是:None
+2022-07-13 16:20:53,000-ERROR-my_log.py-bonree-api-test_aloneBusinessCollect-日志信息:执行用例1的时候报错:
+2022-07-13 16:20:55,063-INFO-my_log.py-bonree-api-test_aloneBusinessCollect-日志信息:预期结果是：res.json()['msg']=="操作成功"；实际请求结果是:None

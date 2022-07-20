@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 20 16:48:02 CST 2022","Wed Jul 20 16:48:24 CST 2022","22560","","test_normal_businessCollect","Test_BusinessCollect","","","test_global_BusinessCollect",""
+"passed","Wed Jul 20 16:49:16 CST 2022","Wed Jul 20 16:49:22 CST 2022","5950","","test_pressure_businessCollect","Test_pressure_BusinessCollect","","","test_pressure_aloneBusinessCollect",""
+"passed","Wed Jul 20 16:49:02 CST 2022","Wed Jul 20 16:49:16 CST 2022","14305","","test_pressure_businessCollect","Test_pressure_BusinessCollect","","","test_pressure_globalBusinessCollect",""
+"passed","Wed Jul 20 16:48:24 CST 2022","Wed Jul 20 16:48:32 CST 2022","7683","","test_normal_businessCollect","Test_BusinessCollect","","","test_alone_BusinessCollect",""

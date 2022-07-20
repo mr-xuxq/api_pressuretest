@@ -1,0 +1,2 @@
+2022-07-06 17:00:12,316-ERROR-my_log.py-bonree-api-日志信息:请求出错:No connection adapters were found for '120.133.67.136:8080/plugin/api/business/setting/getClusterNaming'
+2022-07-06 17:02:01,623-ERROR-my_log.py-bonree-api-日志信息:请求出错:No connection adapters were found for '120.133.67.136:8080/plugin/api/business/setting/getClusterNaming'

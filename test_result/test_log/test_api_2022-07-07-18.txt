@@ -1,0 +1,7 @@
+2022-07-07 18:25:54,294-ERROR-my_log.py-bonree-api-日志信息:请求出错:name 'body' is not defined
+2022-07-07 18:26:43,444-ERROR-my_log.py-bonree-api-日志信息:请求出错:name 'body' is not defined
+2022-07-07 18:27:30,050-ERROR-my_log.py-bonree-api-日志信息:请求出错:name 'body' is not defined
+2022-07-07 18:29:48,685-ERROR-my_log.py-bonree-api-日志信息:请求出错:name 'body' is not defined
+2022-07-07 18:30:13,086-ERROR-my_log.py-bonree-api-日志信息:请求出错:name 'body' is not defined
+2022-07-07 18:32:21,735-ERROR-my_log.py-bonree-api-日志信息:请求出错:name 'body' is not defined
+2022-07-07 18:32:33,844-ERROR-my_log.py-bonree-api-日志信息:请求出错:name 'body' is not defined

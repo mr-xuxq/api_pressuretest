@@ -1,0 +1,7 @@
+2022-07-06 15:17:55,505-ERROR-my_log.py-bonree-api-日志信息:请求出错:No connection adapters were found for '120.133.67.136:8080/plugin/api/business/setting/getClusterNaming'
+2022-07-06 15:19:21,962-ERROR-my_log.py-bonree-api-日志信息:请求出错:No connection adapters were found for '120.133.67.136:8080/plugin/api/business/setting/getClusterNaming'
+2022-07-06 15:19:33,951-ERROR-my_log.py-bonree-api-日志信息:请求出错:No connection adapters were found for '120.133.67.136:8080/plugin/api/business/setting/getClusterNaming'
+2022-07-06 15:21:45,272-ERROR-my_log.py-bonree-api-日志信息:请求出错:No connection adapters were found for '120.133.67.136:8080/plugin/api/business/setting/getClusterNaming'
+2022-07-06 15:22:06,664-ERROR-my_log.py-bonree-api-日志信息:请求出错:name 'headers' is not defined
+2022-07-06 15:22:38,675-ERROR-my_log.py-bonree-api-日志信息:请求出错:No connection adapters were found for '120.133.67.136:8080/plugin/api/business/setting/getClusterNaming'
+2022-07-06 15:57:46,832-ERROR-my_log.py-bonree-api-日志信息:请求出错:No connection adapters were found for '120.133.67.136:8080/plugin/api/business/setting/getClusterNaming'
